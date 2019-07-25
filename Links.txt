@@ -1,2 +1,3 @@
 https://trustfoundry.net/basic-rop-techniques-and-tricks/ - Basic ROP Techniques and Tricks 
 https://kindredsec.com/2019/07/17/oscp-blog-exam-attempt-review/ - OSCP blog
+https://www.synack.com/blog/a-deep-dive-into-xxe-injection/ - XXE example using ENTITY tag
