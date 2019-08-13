@@ -1,3 +1,5 @@
 https://trustfoundry.net/basic-rop-techniques-and-tricks/ - Basic ROP Techniques and Tricks 
 https://kindredsec.com/2019/07/17/oscp-blog-exam-attempt-review/ - OSCP blog
 https://www.synack.com/blog/a-deep-dive-into-xxe-injection/ - XXE example using ENTITY tag
+https://medium.com/@ehsahil/getting-started-in-bug-bounty-7052da28445a - bug bounty read
+https://medium.com/bugbountywriteup/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65 - bug bounty read 2
