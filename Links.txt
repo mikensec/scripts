@@ -5,3 +5,4 @@ https://medium.com/@ehsahil/getting-started-in-bug-bounty-7052da28445a - bug bou
 https://medium.com/bugbountywriteup/bug-bounty-hunting-methodology-toolkit-tips-tricks-blogs-ef6542301c65 - bug bounty read 2
 https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
 https://www.owasp.org/images/1/19/OTGv4.pdf
+https://nullsweep.com/pivot-cheatsheet-for-pentesters/
